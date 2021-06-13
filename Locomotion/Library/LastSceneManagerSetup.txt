@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Locomotion/Scenes/Locomotion.unity
+- path: Assets/VR Interactions/Scenes/VR Interactions.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
